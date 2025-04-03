@@ -1,4 +1,5 @@
 #L’uso (strategico) della mock-politeness nella campagna elettorale italiana 2022 su X 
+
 (Im)Politeness in the public sphere (eds. L. Donckier de Donceel & M. Giacomazzi), Rivista Italiana Filosofia del linguaggio 
 
 
