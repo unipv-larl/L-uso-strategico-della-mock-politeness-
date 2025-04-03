@@ -4,4 +4,5 @@
 
 
 Il file contiene i tweet che presentano il fenomeno pragmatico della Mock-Politeness estensivamente discusso nell'articolo.
-In accordo alle politiche di X, per ciascun tweet è fornito esclusivamente il codice identificativo unico. 
+In accordo alle politiche di X, per ciascun tweet è fornito esclusivamente il codice identificativo unico (senza altre informazioni personali)
+L'uso di questi dati è (stato) limitato a finalità puramente accademiche e scientifiche.
